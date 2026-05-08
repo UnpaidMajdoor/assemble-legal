@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: May 5, 2026**
+**Last updated: May 8, 2026**
 
 These Terms of Service ("Terms") govern your use of the Assemble mobile application ("the App"), operated by the Assemble team ("we," "us," or "our").
 
@@ -28,7 +28,7 @@ If we discover that you are under 18, we will delete your account immediately. P
 - Do not share your OTP with anyone. We will never ask you for it.
 - One person, one account. Creating multiple accounts to evade blocks, bans, or rate limits is prohibited.
 - You are responsible for all activity on your account, including content posted, messages sent, events created, and meetups attended.
-- If you lose access to your phone number, you may lose access to your account. Contact us at **support@assemble.app** for help.
+- If you lose access to your phone number, you may lose access to your account. Contact us at **hello@assembleclub.com** for help.
 
 ---
 
@@ -113,7 +113,7 @@ When you attend a meetup organized through the App:
 - We are not responsible for the safety of the venue, the conduct of attendees, the accuracy of event details, or any incidents that occur
 - We strongly recommend meeting in public places, telling someone where you're going, and leaving if you feel unsafe
 
-If something goes wrong at a meetup, contact local police first (Indian emergency: **112**), then report the incident to us at **support@assemble.app** so we can take action against the offending user.
+If something goes wrong at a meetup, contact local police first (Indian emergency: **112**), then report the incident to us at **hello@assembleclub.com** so we can take action against the offending user.
 
 ---
 
@@ -135,7 +135,7 @@ If we introduce paid features in the future, we will notify you in advance and a
 
 ### 9.1 You can leave anytime
 
-You may delete your account at any time through the App's settings, or by emailing **support@assemble.app**. Account deletion is processed within 30 days as described in the Privacy Policy.
+You may delete your account at any time through the App's settings, or by emailing **hello@assembleclub.com**. Account deletion is processed within 30 days as described in the Privacy Policy.
 
 ### 9.2 We may terminate your account
 
@@ -213,7 +213,7 @@ If any provision of these Terms is found to be unenforceable, the rest of the Te
 
 For questions, complaints, or legal notices regarding these Terms:
 
-**Email:** support@assemble.app
+**Email:** hello@assembleclub.com
 
 We aim to respond within 7 business days.
 

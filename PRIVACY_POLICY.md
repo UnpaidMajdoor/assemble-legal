@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: May 5, 2026**
+**Last updated: May 8, 2026**
 
 This Privacy Policy describes how the Assemble team ("we," "us," or "our") collects, uses, and shares information when you use the Assemble mobile application ("the App").
 
@@ -12,7 +12,7 @@ By using Assemble, you agree to the collection and use of information in accorda
 
 Assemble is a mobile application that helps people in Indian cities — starting with Bengaluru — discover groups, events, and other people for in-person meetups based on shared interests and location. The App is currently operated by an individual founder team based in India ("the Assemble team").
 
-For any questions about this Privacy Policy, contact us at: **support@assemble.app**
+For any questions about this Privacy Policy, contact us at: **hello@assembleclub.com**
 
 ---
 
@@ -143,12 +143,12 @@ Under Indian law (including the Digital Personal Data Protection Act, 2023) and 
 
 - **Access** your data — see what we have collected about you
 - **Correct** inaccurate data — update your profile, photos, interests, and other fields
-- **Delete** your data and account — through the App's settings, or by emailing us at support@assemble.app
+- **Delete** your data and account — through the App's settings, or by emailing us at hello@assembleclub.com
 - **Withdraw consent** for specific data uses — for example, by disabling location permission or push notifications in your device settings
 - **Object to processing** of your data for purposes you disagree with
 - **Receive a copy** of your data in a portable format
 
-To exercise any of these rights, email us at **support@assemble.app**. We will respond within 30 days.
+To exercise any of these rights, email us at **hello@assembleclub.com**. We will respond within 30 days.
 
 ---
 
@@ -158,7 +158,7 @@ To exercise any of these rights, email us at **support@assemble.app**. We will r
 
 At signup, we ask for your date of birth to verify your age. If we discover that a user is under 18, we will delete their account and any associated data.
 
-If you are a parent or guardian and believe your child has created an account on Assemble, please contact us at **support@assemble.app** and we will remove the account.
+If you are a parent or guardian and believe your child has created an account on Assemble, please contact us at **hello@assembleclub.com** and we will remove the account.
 
 This policy is consistent with our obligations under the Protection of Children from Sexual Offences Act, 2012 (POCSO) and the Digital Personal Data Protection Act, 2023.
 
@@ -188,7 +188,7 @@ If you do not agree with the updated policy, you may delete your account.
 
 For questions, complaints, or requests regarding this Privacy Policy or your data:
 
-**Email:** support@assemble.app
+**Email:** hello@assembleclub.com
 
 We aim to respond within 7 business days.
 
